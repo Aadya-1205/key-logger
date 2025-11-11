@@ -26,7 +26,7 @@ A simple Python-based keylogger that captures and logs keystrokes locally to a f
 
 1. Clone this repository:
    bash
-   git clone https://github.com/your-username/python-keylogger.git
+   git clone https://github.com/Aadya-1205/key-logger
    cd python-keylogger
    
 
